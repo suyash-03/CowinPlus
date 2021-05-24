@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "510627933659",
+    "project_id": "cowinplus-ae4b6",
+    "storage_bucket": "cowinplus-ae4b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510627933659:android:e7207bf31b39d1d8834bfe",
+        "android_client_info": {
+          "package_name": "com.example.cowin_plus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510627933659-bdlo6nlvepjpmh55ums91h7pjmartd01.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cowin_plus",
+            "certificate_hash": "2f386746157d9aa43ac4515aa854aafc669dc615"
+          }
+        },
+        {
+          "client_id": "510627933659-rtoub21d39sm25udvdvi7325ms3lloir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2cxwLGFmbJhme0gnWBEIQOJdfwIgUXLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510627933659-rtoub21d39sm25udvdvi7325ms3lloir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
